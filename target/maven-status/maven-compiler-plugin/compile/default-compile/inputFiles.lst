@@ -1,0 +1,17 @@
+/Users/klaudia/Downloads/spring-server-generated/src/main/java/io/swagger/configuration/SwaggerDocumentationConfig.java
+/Users/klaudia/Downloads/spring-server-generated/src/main/java/io/swagger/api/ApiOriginFilter.java
+/Users/klaudia/Downloads/spring-server-generated/src/main/java/io/swagger/api/ApiException.java
+/Users/klaudia/Downloads/spring-server-generated/src/main/java/io/swagger/model/NoteInput.java
+/Users/klaudia/Downloads/spring-server-generated/src/main/java/io/swagger/configuration/CustomInstantDeserializer.java
+/Users/klaudia/Downloads/spring-server-generated/src/main/java/io/swagger/configuration/LocalDateTimeConverter.java
+/Users/klaudia/Downloads/spring-server-generated/src/main/java/io/swagger/configuration/JacksonConfiguration.java
+/Users/klaudia/Downloads/spring-server-generated/src/main/java/io/swagger/configuration/SwaggerUiConfiguration.java
+/Users/klaudia/Downloads/spring-server-generated/src/main/java/io/swagger/api/NotesApi.java
+/Users/klaudia/Downloads/spring-server-generated/src/main/java/io/swagger/api/NotFoundException.java
+/Users/klaudia/Downloads/spring-server-generated/src/main/java/io/swagger/model/Note.java
+/Users/klaudia/Downloads/spring-server-generated/src/main/java/io/swagger/api/ApiResponseMessage.java
+/Users/klaudia/Downloads/spring-server-generated/src/main/java/io/swagger/configuration/LocalDateConverter.java
+/Users/klaudia/Downloads/spring-server-generated/src/main/java/io/swagger/RFC3339DateFormat.java
+/Users/klaudia/Downloads/spring-server-generated/src/main/java/io/swagger/Swagger2SpringBoot.java
+/Users/klaudia/Downloads/spring-server-generated/src/main/java/io/swagger/configuration/HomeController.java
+/Users/klaudia/Downloads/spring-server-generated/src/main/java/io/swagger/api/NotesApiController.java
